@@ -1,0 +1,5 @@
+I'm adding Jared's list to CartoDB.
+https://tlevine.cartodb.com/tables/12715
+
+I'm formatting the address field as `[street address], [borough]`. If the
+pizzeria has multiple locations, I'm using the original location.
